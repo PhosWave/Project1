@@ -1,0 +1,41 @@
+
+            
+        h1{
+            background-color:azure;
+            text-align:center;
+            color:black;
+        }
+        
+        #super{
+            background-color:red;
+            text-align:center;
+            color:black
+        }
+        .menu_styler{
+            background-color:azure;
+            color:black;
+            margin-right:50px;
+        }
+        .custom_margin{
+            margin: 150px;
+            background-color: blueviolet;
+        }
+        .box_table>table{
+            border-width: 1px;
+            border-style: none;
+            border-color: blueviolet;
+            border-collapse: collapse;
+            width: 50%;
+        }
+        .box_table>table th, .box_table>table td{
+            border: 1px solid black;
+            padding: 5px;
+            text-align:center;
+        }
+        .box_table>table th{
+            background-color:azure;
+        }
+        #spanner{
+            color: red;
+        }
+
