@@ -16,6 +16,13 @@
             color:black;
             margin-right:50px;
         }
+        .menu{
+            background-color: hotpink;
+            padding: 20px;
+            margin:100px;
+            border-width:50px;
+            border-color:orange;
+        }
         .custom_margin{
             margin: 150px;
             background-color: blueviolet;
